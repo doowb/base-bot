@@ -19,10 +19,12 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "async": "^1.5.0",
+    "base-methods": "^0.6.2"
+  },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "*"
   },
   "keywords": []
 }
