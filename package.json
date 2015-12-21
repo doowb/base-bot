@@ -26,5 +26,13 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "keywords": []
+  "keywords": [],
+  "verb": {
+    "related": {
+      "list": [
+        "base-methods",
+        "use"
+      ]
+    }
+  }
 }
