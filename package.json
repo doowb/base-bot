@@ -24,6 +24,7 @@
     "base-methods": "^0.6.2"
   },
   "devDependencies": {
+    "ansi-colors": "^0.1.0",
     "mocha": "*"
   },
   "keywords": [],
