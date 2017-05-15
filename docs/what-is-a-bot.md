@@ -1,6 +1,11 @@
+## What is this?
+
+The goal of this project is to provide an api that makes it easy to create bots. 
+
+
 ## What is a bot?
 
-The goal of this project is to provide an api that makes it easy to create bots. But what is a bot? This project defines a bot as an application that either has methods to interact with external services (actions) or to respond to events (handlers) or a combination of both.
+This project defines a bot as an application that either has methods to interact with external services (actions) or to respond to events (handlers) or a combination of both.
 
 This project is just the framework for creating the actions and handlers that a bot may use.
 The following is a break down of the [simple barista example][../examples/barista-simple.js]
